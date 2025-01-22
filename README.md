@@ -22,7 +22,7 @@ All conversations are kept in the 'session.json' file.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/TerminalAssistantProject.git
+   git clone https://github.com/GabrielVY/TerminalAssistantProject.git
    cd TerminalAssistantProject
    ```
 
